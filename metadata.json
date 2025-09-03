@@ -1,0 +1,5 @@
+{
+  "name": "AI Policy Generator",
+  "description": "An intelligent application that helps you draft comprehensive AI usage policies. Leveraging Gemini, it provides contextual suggestions and generates content to build robust and responsible AI guidelines for your organization.",
+  "requestFramePermissions": []
+}
