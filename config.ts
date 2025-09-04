@@ -29,4 +29,4 @@ export const UI_INFO_FOLDER_URL = "https://drive.google.com/drive/folders/1lPNdP
 // 7. Click "CREATE".
 // 8. A pop-up will show your "Client ID". Copy it and paste it below, replacing 'YOUR_CLIENT_ID_HERE'.
 // ====================================================================================
-export const GOOGLE_CLIENT_ID = '881227384161-gp1e0pr0aiphvdr6vkoqmjn24g68tfpg.apps.googleusercontent.com';
+export const GOOGLE_CLIENT_ID = 'CLIENT_ID';
